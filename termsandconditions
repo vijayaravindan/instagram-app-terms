@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - thoughtfulchatsandhealthub</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            line-height: 1.6;
+        }
+        h1 { color: #1877f2; }
+        h2 { color: #333; }
+        h3 { color: #555; }
+        .contact { 
+            background: #f0f2f5; 
+            padding: 15px; 
+            border-radius: 8px; 
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <h2>thoughtfulchatsandhealthub</h2>
+    
+    <p><strong>Last updated:</strong> July 12, 2025</p>
+    
+    <h3>Acceptance of Terms</h3>
+    <p>By using this application, you agree to these Terms of Service. If you do not agree, please do not use the service.</p>
+    
+    <h3>Description of Service</h3>
+    <p>This application provides automated posting of video content from Google Drive to Instagram accounts on a scheduled basis.</p>
+    
+    <h3>User Responsibilities</h3>
+    <p>You are responsible for:</p>
+    <ul>
+        <li>Ensuring you have proper rights and permissions to post all content</li>
+        <li>Complying with Instagram's Community Guidelines and Terms of Service</li>
+        <li>Maintaining the security of your Google and Instagram account credentials</li>
+        <li>Ensuring your content doesn't violate any laws or third-party rights</li>
+    </ul>
+    
+    <h3>Service Availability</h3>
+    <p>This service is provided on an "as available" basis. We do not guarantee uninterrupted service and may suspend or modify the service at any time.</p>
+    
+    <h3>Limitation of Liability</h3>
+    <p>This service is provided "as is" for personal use only. We are not liable for any issues arising from automated posting, including but not limited to posting failures, account restrictions, or content violations.</p>
+    
+    <h3>Termination</h3>
+    <p>You may terminate your use of this service at any time by revoking app permissions in your Google and Instagram accounts.</p>
+    
+    <div class="contact">
+        <h3>Contact Information</h3>
+        <p>For questions about these Terms, contact us at: <strong>svijayaravindan@gmail.com</strong></p>
+    </div>
+</body>
+</html>
